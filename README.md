@@ -6,9 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Discord API](https://img.shields.io/badge/Discord%20API-v10-7289da.svg)](https://discord.com/developers/docs/intro)
 
-<p align="center">
-  <img src="https://your-cdn-link.com/nexusbd-dashboard.png" alt="NexusBD Dashboard" width="600">
-</p>
+
 
 ## 🚀 Overview
 
