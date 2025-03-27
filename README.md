@@ -1,12 +1,14 @@
 # NexusBD - Nexus Bot Dashboard
 
-[![Vercel](https://img.shields.io/badge/Vercel-deployed-brightgreen.svg)](https://v0-dicord-dashboard.vercel.app)
+[![Vercel](https://img.shields.io/badge/Vercel-deployed-brightgreen.svg)](https://nexusbd.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-14-blue.svg)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Discord API](https://img.shields.io/badge/Discord%20API-v10-7289da.svg)](https://discord.com/developers/docs/intro)
 
+## 🌐 Official Website
 
+Visit the official NexusBD website: **[https://nexusbd.vercel.app/](https://nexusbd.vercel.app/)**
 
 ## 🚀 Overview
 
@@ -22,7 +24,6 @@ NexusBD is a powerful, modern dashboard for Discord bots. It provides an intuiti
 - **📱 Responsive Design**: Works on desktop and mobile devices
 - **🌙 Dark Mode**: Easy on the eyes, perfect for night-time use
 - **🔒 Privacy-Focused**: Your bot token is stored locally and only sent to Discord's API
-
 
 ## 🛠️ Installation
 
@@ -100,7 +101,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Next.js Documentation](https://nextjs.org/docs)
 - [shadcn/ui Components](https://ui.shadcn.com/)
 - [Lucide Icons](https://lucide.dev/)
-
 
 ---
 
