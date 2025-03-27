@@ -23,11 +23,6 @@ NexusBD is a powerful, modern dashboard for Discord bots. It provides an intuiti
 - **🌙 Dark Mode**: Easy on the eyes, perfect for night-time use
 - **🔒 Privacy-Focused**: Your bot token is stored locally and only sent to Discord's API
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="https://your-cdn-link.com/nexusbd-login.png" alt="Login Screen" width="400">
-</p>
 
 ## 🛠️ Installation
 
