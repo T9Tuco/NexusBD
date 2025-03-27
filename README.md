@@ -8,7 +8,7 @@
 
 ## 🌐 Official Website
 
-Visit the official NexusBD website: **[https://nexusbd.vercel.app/](https://nexusbd.vercel.app/)**
+Visit the official NexusBD website: **https://botdb.nexusng.site**
 
 ## 🚀 Overview
 
