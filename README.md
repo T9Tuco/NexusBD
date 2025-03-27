@@ -106,10 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [shadcn/ui Components](https://ui.shadcn.com/)
 - [Lucide Icons](https://lucide.dev/)
 
-## 📬 Contact
-
-Project Link: [https://github.com/yourusername/nexusbd](https://github.com/yourusername/nexusbd)
 
 ---
 
-Made with ❤️ by the NexusBD Team
+Made with ❤️ by TucoT9
