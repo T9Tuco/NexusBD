@@ -29,7 +29,7 @@ NexusBD is a powerful, modern dashboard for Discord bots. It provides an intuiti
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/nexusbd.git
+git clone https://github.com/t9tuco/nexusbd.git
 cd nexusbd
 ```
 
