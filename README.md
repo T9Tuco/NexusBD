@@ -1,6 +1,3 @@
-Thought for some timeHere's the README.md as a code block for easier editing:
-
-```markdown
 # NexusBD - Nexus Bot Dashboard
 
 [![Vercel](https://img.shields.io/badge/Vercel-deployed-brightgreen.svg)](https://v0-dicord-dashboard.vercel.app)
@@ -10,7 +7,7 @@ Thought for some timeHere's the README.md as a code block for easier editing:
 [![Discord API](https://img.shields.io/badge/Discord%20API-v10-7289da.svg)](https://discord.com/developers/docs/intro)
 
 <p align="center">
-  <img src="https://sjc.microlink.io/D30EQuutRrFbkq9XxRQH89Z6buxbZEJE8dmF7vpomHesUobrPLFZDC9YJBjHB2J1P-oVTab9MjEXnvR36DIMag.jpeg" alt="NexusBD Dashboard" width="600">
+  <img src="https://your-cdn-link.com/nexusbd-dashboard.png" alt="NexusBD Dashboard" width="600">
 </p>
 
 ## 🚀 Overview
@@ -31,12 +28,13 @@ NexusBD is a powerful, modern dashboard for Discord bots. It provides an intuiti
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://sjc.microlink.io/D30EQuutRrFbkq9XxRQH89Z6buxbZEJE8dmF7vpomHesUobrPLFZDC9YJBjHB2J1P-oVTab9MjEXnvR36DIMag.jpeg" alt="Login Screen" width="400">
+  <img src="https://your-cdn-link.com/nexusbd-login.png" alt="Login Screen" width="400">
 </p>
 
 ## 🛠️ Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/yourusername/nexusbd.git
 cd nexusbd
@@ -44,70 +42,50 @@ cd nexusbd
 
 2. Install dependencies:
 
-
-```shellscript
+```bash
 npm install
 ```
 
 3. Create a `.env.local` file in the root directory with the following variables:
 
-
-```plaintext
+```ini
 NEXT_PUBLIC_APP_URL=http://localhost:3000
 ```
 
 4. Run the development server:
 
-
-```shellscript
+```bash
 npm run dev
 ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-
 ## 📖 Usage
 
 1. Create a Discord bot in the [Discord Developer Portal](https://discord.com/developers/applications)
 2. Enable the required intents for your bot:
-
-1. Server Members Intent (for member lists)
-2. Message Content Intent (for message content)
-3. Presence Intent (for user status)
-
-
-
+   - **Server Members Intent** (for member lists)
+   - **Message Content Intent** (for message content)
+   - **Presence Intent** (for user status)
 3. Copy your bot token
 4. Log in to the dashboard using your bot token
 5. Start managing your bot through the intuitive interface
 
-
 ## 🔧 Technologies Used
 
-- **Frontend**:
-
+### **Frontend**:
 - [Next.js 14](https://nextjs.org/)
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [shadcn/ui](https://ui.shadcn.com/)
 
-
-
-- **APIs**:
-
+### **APIs**:
 - [Discord API](https://discord.com/developers/docs/intro)
 - [Vercel Analytics](https://vercel.com/analytics)
 
-
-
-- **Deployment**:
-
+### **Deployment**:
 - [Vercel](https://vercel.com/)
-
-
-
-
 
 ## 🤝 Contributing
 
@@ -118,7 +96,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
 
 ## 📝 License
 
@@ -131,7 +108,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [shadcn/ui Components](https://ui.shadcn.com/)
 - [Lucide Icons](https://lucide.dev/)
 
-
 ## 📬 Contact
 
 Project Link: [https://github.com/yourusername/nexusbd](https://github.com/yourusername/nexusbd)
@@ -139,9 +115,3 @@ Project Link: [https://github.com/yourusername/nexusbd](https://github.com/youru
 ---
 
 Made with ❤️ by the NexusBD Team
-
-
-
-```plaintext
-
-```
